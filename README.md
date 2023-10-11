@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/seoeka/seoeka/assets/87307944/6cc6fcaf-0c67-47e2-9c5e-c19aa12da97e)# Hi, i'm Ekasari!
 
 <!--
 **seoeka/seoeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 Github Stats
+
 <p align="left">
 <a href="https://github.com/seoeka">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seoeka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
