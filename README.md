@@ -1,4 +1,4 @@
-![image](https://github.com/seoeka/seoeka/assets/87307944/6cc6fcaf-0c67-47e2-9c5e-c19aa12da97e)# Hi, i'm Ekasari!
+# Hi, i'm Ekasari!
 
 <!--
 **seoeka/seoeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
