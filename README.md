@@ -1,7 +1,16 @@
-# Hi, i'm Ekasari!
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello%2C+everyone~;YOLO!" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=seoeka&label=Profile%20views&color=508D69&style=flat" alt="seoeka" />
+    <a href="https://twitter.com/seoeka" target="_blank"> 
+        <img src="https://img.shields.io/badge/Twitter-%23353a3b.svg?logo=Twitter&logoColor=blue" />
+    </a>
+    <a href="https://linkedin.com/in/ekasari-amalia-97801929a" target="_blank"> 
+        <img src="https://img.shields.io/badge/LinkedIn-%23353a3b.svg?logo=LinkedIn&logoColor=white" />
+    </a>
+</p>
+
 
 <!--
 **seoeka/seoeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,18 +28,22 @@ Here are some ideas to get you started:
 -->
 ## 📊 Github Stats
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=seoeka&label=Profile%20views&color=508D69&style=flat" alt="seoeka" />
-    <a href="https://twitter.com/seoeka" target="_blank"> 
-        <img src="https://img.shields.io/badge/Twitter-%23353a3b.svg?logo=Twitter&logoColor=blue" />
-    </a>
-    <a href="https://linkedin.com/in/ekasari-amalia-97801929a" target="_blank"> 
-        <img src="https://img.shields.io/badge/LinkedIn-%23353a3b.svg?logo=LinkedIn&logoColor=white" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeka&langs_count=8&layout=compact&theme=noctis_minimus" alt="GitHub Top Languages" />
 </p>
-
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=seoeka&theme=whatsapp-dark" alt="GitHub Streak" /></a>
 </p>
+
+## 🛠️ Languages and Tools
+<ul>
+  <li><strong>Programming and Markup Languages</strong></li><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,python" alt="Languages">
+</ul>
+<br>
+<ul>
+  <li><strong>Environment, Frameworks, and Tools</strong></li><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,mysql,eclipse,bootstrap,postman,codepen,figma,github,git" alt="Languages">
+</ul>
 
 ## 🎧 Spotify Playing
 <p align="center">
