@@ -27,11 +27,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 Github Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeka&langs_count=8&layout=compact&theme=noctis_minimus" alt="GitHub Top Languages" />
-</p>
+
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=seoeka&theme=whatsapp-dark" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=seoeka&show_icons=true&theme=gotham"/>
+<p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeka&langs_count=8&layout=compact&theme=gotham" alt="GitHub Top Languages" />
 </p>
 
 ## 🛠️ Languages and Tools
