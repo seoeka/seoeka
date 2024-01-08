@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 <p align="center">
-    <a href="https://open.spotify.com/user/seoeka">
+    <a href="https://open.spotify.com/user/ab5c4lb3nrjbcr75vll34tm2a">
         <img src="https://seoeka-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
     </a>
 </p>
