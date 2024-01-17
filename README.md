@@ -41,12 +41,14 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 <ul>
   <li><strong>Programming and Markup Languages</strong></li><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,python" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,node,php" alt="Languages"><br><br>
+   <img src="https://skillicons.dev/icons?i=cs,cpp,python,kotlin" alt="Languages">
 </ul>
 <br>
 <ul>
   <li><strong>Environment, Frameworks, and Tools</strong></li><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,mysql,eclipse,bootstrap,postman,codepen,figma,github,git" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,mysql,eclipse,bootstrap" alt="Tools"><br><br>
+  <img src="https://skillicons.dev/icons?i=postman,codepen,figma,github,git,androidstudio" alt="Tools">
 </ul>
 
 ## 🎧 Spotify Playing
