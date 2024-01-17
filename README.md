@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 <ul>
   <li><strong>Programming and Markup Languages</strong></li><br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,node,php" alt="Languages"><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,php" alt="Languages"><br><br>
    <img src="https://skillicons.dev/icons?i=cs,cpp,python,kotlin" alt="Languages">
 </ul>
 <br>
