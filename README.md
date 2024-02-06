@@ -6,7 +6,7 @@
     <a href="https://twitter.com/seoeka" target="_blank"> 
         <img src="https://img.shields.io/badge/Twitter-%23353a3b.svg?logo=Twitter&logoColor=blue" />
     </a>
-    <a href="https://linkedin.com/in/ekasari-amalia-97801929a" target="_blank"> 
+    <a href="https://www.linkedin.com/in/seoeka/" target="_blank"> 
         <img src="https://img.shields.io/badge/LinkedIn-%23353a3b.svg?logo=LinkedIn&logoColor=white" />
     </a>
 </p>
